@@ -1,0 +1,8 @@
+====indicator====
+length 5
+multiplyer 1.0
+dotSize 3
+====script====
+trading hours 7 - 21
+TP 780
+size 0.01
